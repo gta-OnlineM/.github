@@ -7,7 +7,7 @@ OnlineM is a Unique, powerful framework For FiveM, which aims to not only Fully 
 
 ## 👉 Join the community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TCCHMySN2N)
-[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/SY2sWVuq/onlinem)]
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/SY2sWVuq/onlinem)
 
 ## 👨‍💻 Meet the team
 <p align="center">
